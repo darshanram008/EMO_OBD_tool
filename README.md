@@ -27,6 +27,12 @@ GUI.
 6. Flow control between OBD and BMS whenever there is an event of exchanging
 data.
 
+## 
+- Microcontroller unit: Microchip PIC18F27Q84
+- CAN transciever: Microchip MCP2551; variable Baud rate upto 1Mbps
+- UART to USB converter: Silicon labs CP2102; variable baud rate uptp 115200
+- Micrchip MPLAB X IDE
+
 <!-- > some block quote itseems -->
 
 <!-- `this is where code comes` -->
